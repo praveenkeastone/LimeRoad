@@ -1,0 +1,1 @@
+category.homepage = {\"locator\":\"xpathy=//android.widget.TextView[@text='%s']\",\"desc\":\"category on homepage\"}
